@@ -1,3 +1,4 @@
+package practicas;
 
 public class contadorInverso {
 //Vamos a ir de 1200 a 620 contando de 20 en 20 usando while y for
